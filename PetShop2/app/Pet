@@ -1,0 +1,6 @@
+package com.example.petshop
+
+import ...
+
+class MainActivity : ComponentActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
